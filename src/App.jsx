@@ -27,7 +27,7 @@ class CertificateButton extends React.Component {
           transform: 'translate(-50%, -50%)', 
           border: 'none' 
         }}>
-          <a href="src/assets/NPTEL23CE66S738100507.png" target="_blank" rel="noreferrer" style={{ color: 'white', textDecoration: 'none' }}>Course Certificate</a>
+          <a href="/assets/NPTEL23CE66S738100507.png" target="_blank" rel="noreferrer" style={{ color: 'white', textDecoration: 'none' }}>Course Certificate</a>
         </button>
       </div>
     );
