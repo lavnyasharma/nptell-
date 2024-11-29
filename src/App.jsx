@@ -49,7 +49,7 @@ class CertificateButton extends React.Component {
             rel="noreferrer" 
             style={{ color: 'white', textDecoration: 'none' }}
           >
-            Open Certificate
+            Course Certificate
           </a>
         </button>
       </div>
